@@ -2,7 +2,6 @@ import java.util.Scanner;
 public class reverseNumber {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int num;
 		int rev;
 		int i=0;
@@ -25,9 +24,6 @@ public class reverseNumber {
 			System.out.println("given number palindrom");
 		else
 			System.out.println("given number is not palindrom");
-		
-		
-		
 	}
 
 }
